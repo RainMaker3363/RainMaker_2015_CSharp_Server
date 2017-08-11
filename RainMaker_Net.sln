@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainMaker_Net", "RainMaker_Net\RainMaker_Net.csproj", "{39A9FCF0-6BAA-4482-9DB4-5E8F4A0AE4A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSampleServer", "CSampleServer\CSampleServer.csproj", "{61AA1EBD-FBC5-4F3D-A446-10B0D86BB18C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSampleClient", "CSampleClient\CSampleClient.csproj", "{A442DAA1-040D-44F4-928F-FDDA235B11BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaMa_VirusWarServer", "RaMa_VirusWarServer\RaMa_VirusWarServer.csproj", "{DB712E36-BE93-4BCC-AE74-3AC378FF03B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A9FCF0-6BAA-4482-9DB4-5E8F4A0AE4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A9FCF0-6BAA-4482-9DB4-5E8F4A0AE4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A9FCF0-6BAA-4482-9DB4-5E8F4A0AE4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A9FCF0-6BAA-4482-9DB4-5E8F4A0AE4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61AA1EBD-FBC5-4F3D-A446-10B0D86BB18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AA1EBD-FBC5-4F3D-A446-10B0D86BB18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AA1EBD-FBC5-4F3D-A446-10B0D86BB18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AA1EBD-FBC5-4F3D-A446-10B0D86BB18C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A442DAA1-040D-44F4-928F-FDDA235B11BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A442DAA1-040D-44F4-928F-FDDA235B11BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A442DAA1-040D-44F4-928F-FDDA235B11BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A442DAA1-040D-44F4-928F-FDDA235B11BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB712E36-BE93-4BCC-AE74-3AC378FF03B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB712E36-BE93-4BCC-AE74-3AC378FF03B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB712E36-BE93-4BCC-AE74-3AC378FF03B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB712E36-BE93-4BCC-AE74-3AC378FF03B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
